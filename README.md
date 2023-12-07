@@ -22,7 +22,7 @@ tqdm==4.62.3
 
 #### Datasets
 
-The datasets are located in `data` folder.
+The datasets you can download [here](https://drive.google.com/drive/folders/1bz5FIeYPW8lWukl5Iltks5WXuo81gpAr?usp=drive_link).
 
 If you want to obtain a complete set of entity images, please use the image crawling code we provided:`./utils/crawl.py`.
 
